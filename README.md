@@ -5,3 +5,9 @@ FinSight Distribution & Consumer Products Ltd. operates across eight branches in
 ## Headline finding
 Revenue rose 52.6%, from ₦1.41bn to ₦2.15bn. Total expenses rose 68.1%, from ₦2.10bn to ₦3.54bn. The net loss before tax doubled, from ₦691m to ₦1.38bn.
 Product cost was not the cause. Cost of goods sold grew 37.6%, slower than revenue. The squeeze came from diesel, freight and import costs, which grew between 135% and 190%.
+## Dashboard Preview
+
+![Finsight-Financial-Analytics-Powerbi](Overview.png)
+Overview
+___
+![Finsight-Financial-Analytics-Powerbi](ProfitandLoss.png)
