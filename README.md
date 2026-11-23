@@ -80,3 +80,8 @@ Finsight-Financial-Analytics/
 │   └── management-narrative.md
 └── data/
 ```
+## How to open the report
+Download the .pbix file from the report folder and open it in Power BI Desktop. A PDF export is included for a quick look without Power BI.
+
+## About
+Built by [Adelowo David O.] as part of a data analysis course.
