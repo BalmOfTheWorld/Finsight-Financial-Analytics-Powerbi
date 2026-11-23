@@ -21,3 +21,15 @@ Month on Month Revenue
 ___
 ![Finsight-Financial-Analytics-Powerbi](Expense.jpeg)
 Branch and Department performance
+___
+## Data
+The dataset comes from the Project file. Amounts are in Nigerian naira (NGN), covering January 2024 to December 2025.
+
+| **Table** |	**Rows** |	**Role** |
+|---|---| --- |
+| FactFinancialTransactions |	4,500 |	Fact table with one row per ledger posting |
+| DimAccount |	38 |	Chart of accounts and P&L layout |
+| DimDepartment |	10 |	Corporate departments |
+| DimBranch |	8	| Branch locations |
+| DimCostCentre |	12 |	Functional cost pools |
+| DimDate |	built in DAX |	Calendar table for time intelligence |
