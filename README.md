@@ -16,10 +16,10 @@ ___
 ![Finsight-Financial-Analytics-Powerbi](Revenue.jpeg)
 Revenue, margin trends and Expense breakdown
 ___
-![Finsight-Financial-Analytics-Powerbi](RevenueMOM.jpeg)
+![Revenue MOM](Images/RevenueMOM.jpeg)
 Month on Month Revenue
 ___
-![Finsight-Financial-Analytics-Powerbi](Expense.jpeg)
+![Expense](Images/Expense.jpeg)
 Branch and Department performance
 ___
 ## Data
@@ -36,3 +36,4 @@ The dataset comes from the Project file. Amounts are in Nigerian naira (NGN), co
 
 ## Data model
 A star schema with the fact table in the centre. Each dimension joins to the fact table one-to-many, with a single filter direction. The date table is created in DAX and joined on TransactionDate.
+![Data Model](Images/DataModel.png)
