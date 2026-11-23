@@ -11,3 +11,13 @@ Product cost was not the cause. Cost of goods sold grew 37.6%, slower than reven
 Overview
 ___
 ![Finsight-Financial-Analytics-Powerbi](ProfitandLoss.png)
+Profit and Loss statement
+___
+![Finsight-Financial-Analytics-Powerbi](Revenue.jpeg)
+Revenue, margin trends and Expense breakdown
+___
+![Finsight-Financial-Analytics-Powerbi](RevenueMOM.jpeg)
+Month on Month Revenue
+___
+![Finsight-Financial-Analytics-Powerbi](Expense.jpeg)
+Branch and Department performance
