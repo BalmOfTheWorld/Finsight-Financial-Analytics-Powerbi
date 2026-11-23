@@ -7,13 +7,13 @@ Revenue rose 52.6%, from ₦1.41bn to ₦2.15bn. Total expenses rose 68.1%, from
 Product cost was not the cause. Cost of goods sold grew 37.6%, slower than revenue. The squeeze came from diesel, freight and import costs, which grew between 135% and 190%.
 ## Dashboard Preview
 
-![Finsight-Financial-Analytics-Powerbi](Overview.png)
+![Overview](Images/Overview.png)
 Overview
 ___
-![Finsight-Financial-Analytics-Powerbi](ProfitandLoss.png)
+![Profit and Loss](Images/ProfitandLoss.png)
 Profit and Loss statement
 ___
-![Finsight-Financial-Analytics-Powerbi](Revenue.jpeg)
+![Revenue](Images/Revenue.jpeg)
 Revenue, margin trends and Expense breakdown
 ___
 ![Revenue MOM](Images/RevenueMOM.jpeg)
