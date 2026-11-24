@@ -15,20 +15,20 @@ Revenue rose 52.6%, from ₦1.41bn to ₦2.15bn. Total expenses rose 68.1%, from
 Product cost was not the cause. Cost of goods sold grew 37.6%, slower than revenue. The squeeze came from diesel, freight and import costs, which grew between 135% and 190%.
 ## Dashboard Preview
 
-![Overview](Images/Overview.png)
-Overview
+![Overview dashboard showing key revenue, expense, profit, and margin indicators](Images/Overview.png)
+*Overview dashboard summarizing the company's financial performance.*
 ___
-![Profit and Loss](Images/ProfitandLoss.png)
-Profit and Loss statement
+![Profit and loss statement showing revenue, costs, expenses, and profit results](Images/ProfitandLoss.png)
+*Profit and loss statement with FY2024 and FY2025 comparisons.*
 ___
-![Revenue](Images/Revenue.jpeg)
-Revenue, margin trends and Expense breakdown
+![Revenue dashboard showing margin trends and expense breakdowns](Images/Revenue.jpeg)
+*Revenue, margin trends, and expense breakdown.*
 ___
-![Revenue MOM](Images/RevenueMOM.jpeg)
-Month on Month Revenue
+![Month-on-month revenue dashboard showing monthly revenue changes](Images/RevenueMOM.jpeg)
+*Month-on-month revenue analysis.*
 ___
-![Expense](Images/Expense.jpeg)
-Branch and Department performance
+![Expense dashboard showing branch and department performance](Images/Expense.jpeg)
+*Branch and department performance analysis.*
 ___
 ## Data
 The dataset comes from the Project file. Amounts are in Nigerian naira (NGN), covering January 2024 to December 2025.
@@ -44,7 +44,8 @@ The dataset comes from the Project file. Amounts are in Nigerian naira (NGN), co
 
 ## Data model
 A star schema with the fact table in the centre. Each dimension joins to the fact table one-to-many, with a single filter direction. The date table is created in DAX and joined on TransactionDate.
-![Data Model](Images/DataModel.png)
+![Data model diagram showing the fact table connected to the related dimension tables](Images/DataModel.png)
+*Star-schema data model connecting financial transactions with account, department, branch, cost-centre, and date dimensions.*
 
 ## Cleaning steps
 - Converted TransactionDate from text to date.
