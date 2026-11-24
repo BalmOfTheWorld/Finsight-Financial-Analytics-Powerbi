@@ -74,11 +74,11 @@ Finsight-Financial-Analytics/
 ├── report/
 │   ├── FinSight_Dashboard.pbix
 │   └── FinSight_Dashboard.pdf
-├── images/
-├── docs/
-│   ├── measures.md
-│   └── management-narrative.md
-└── data/
+├── Images/
+├── Documents/
+    ├── measures.md
+    └── management-narrative.md
+
 ```
 ## How to open the report
 Download the .pbix file from the report folder and open it in Power BI Desktop. A PDF export is included for a quick look without Power BI.
