@@ -46,7 +46,7 @@ A star schema with the fact table in the centre. Each dimension joins to the fac
 - Confirmed that every debit and credit flag matches its account's normal balance. Amounts are all positive, so the sign logic lives in the measures.
 
 ## Key measures
-Revenue, cost of sales, operating expenses, total expenses, gross, operating and net profit, three margins, prior-year and YoY versions of each, and a month-on-month revenue measure. The full list with DAX is in docs/measures.md.
+Revenue, cost of sales, operating expenses, total expenses, gross, operating and net profit, three margins, prior-year and YoY versions of each, and a month-on-month revenue measure. The full list with DAX is available in [Measures](Documents/measures.md).
 
 ## Findings
 - Margins fell at every level. Gross margin dropped from 16.7% to 11.7%, and net margin from -49.0% to -63.9%.
@@ -59,7 +59,7 @@ Revenue, cost of sales, operating expenses, total expenses, gross, operating and
 1. Cut energy costs. Buy fuel in bulk, service generators on a schedule, and add solar or hybrid power at the highest-use branches.
 2. Renegotiate freight and import costs. Tender haulage contracts, consolidate shipments, review clearing agents and stock regional hubs. Had these lines grown only in line with revenue, FY2025 costs would have been about ₦0.57bn lower.
 3. Put the loss-making branches on a cost and pricing plan. Start with Lagos Mainland, Lagos Island, Ibadan and Kano.
-The full write-up is in docs/management-narrative.md.
+The full write-up is in [Management Naarative](Documents/management-narrative.md).
 
 ## Tools
 1. Power BI Desktop
