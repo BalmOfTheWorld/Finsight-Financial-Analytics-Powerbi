@@ -1,8 +1,16 @@
 # Finsight-Financial-Analytics-Powerbi
 A Power BI financial reporting solution for a Nigerian FMCG distributor. Built as a class case study in data modelling, DAX and financial reporting.
-# Project Overview
+## Contents
+- [Project Overview](#project-overview)
+- [Key Findings](#Key-findings)
+- [Dashboard Preview](#dashboard-preview)
+- [Data Model](#data-model)
+- [Measures](#key-measures)
+- [Recommendations](#recommendations)
+- [How to Use](#how-to-open-the-report)
+## Project Overview
 FinSight Distribution & Consumer Products Ltd. operates across eight branches in Nigeria. Between 2024 and 2025 its revenue grew sharply, but profit did not follow. The Managing Director asked why.The brief called for an automated P&L, a 2024 vs 2025 comparison, the main cost drivers, a branch and department efficiency review, and recommendations for leadership.
-## Headline finding
+## Key findings
 Revenue rose 52.6%, from ₦1.41bn to ₦2.15bn. Total expenses rose 68.1%, from ₦2.10bn to ₦3.54bn. The net loss before tax doubled, from ₦691m to ₦1.38bn.
 Product cost was not the cause. Cost of goods sold grew 37.6%, slower than revenue. The squeeze came from diesel, freight and import costs, which grew between 135% and 190%.
 ## Dashboard Preview
@@ -59,7 +67,7 @@ Revenue, cost of sales, operating expenses, total expenses, gross, operating and
 1. Cut energy costs. Buy fuel in bulk, service generators on a schedule, and add solar or hybrid power at the highest-use branches.
 2. Renegotiate freight and import costs. Tender haulage contracts, consolidate shipments, review clearing agents and stock regional hubs. Had these lines grown only in line with revenue, FY2025 costs would have been about ₦0.57bn lower.
 3. Put the loss-making branches on a cost and pricing plan. Start with Lagos Mainland, Lagos Island, Ibadan and Kano.
-The full write-up is in [Management Naarative](Documents/management-narrative.md).
+The full write-up is in [Management Narrative](Documents/management-narrative.md).
 
 ## Tools
 1. Power BI Desktop
@@ -71,9 +79,9 @@ The full write-up is in [Management Naarative](Documents/management-narrative.md
 ```
 Finsight-Financial-Analytics/
 ├── README.md
-├── report/
-│   ├── FinSight_Dashboard.pbix
-│   └── FinSight_Dashboard.pdf
+├── Reports/
+│   ├── Finsight_Dashboard.pbix
+│   └── Finsight_Dashboard.pdf
 ├── Images/
 ├── Documents/
     ├── measures.md
